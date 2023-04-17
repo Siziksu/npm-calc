@@ -1,0 +1,34 @@
+{
+    "name": "@siziksu/calc",
+    "version": "1.0.0",
+    "description": "Command line calculator",
+    "type": "module",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "argv",
+        "cli",
+        "args",
+        "command",
+        "line",
+        "command-line",
+        "arguments",
+        "parse",
+        "terminal",
+        "console",
+        "calculator",
+        "calc"
+    ],
+    "author": "Esteban Latre",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Siziksu/npm-calc.git"
+    },
+    "homepage": "https://github.com/Siziksu/npm-calc#readme",
+    "bugs": {
+        "url": "https://github.com/Siziksu/npm-calc/issues"
+    }
+}
